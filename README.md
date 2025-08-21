@@ -88,7 +88,7 @@ A **JavaFX task management application** for creating, organizing, and tracking 
 ## 📫 Contact
 
 * **Email:** [moraitaki.alexandra@gmail.com](mailto:moraitaki.alexandra@gmail.com)
-* **LinkedIn:** [linkedin.com/in/alexandramoraitaki](https://www.linkedin.com/in/alexandramoraitaki)
+* **LinkedIn:** [linkedin.com/in/alexandramoraitaki](https://www.linkedin.com/in/alexandra-moraitaki)
 
 
 ---

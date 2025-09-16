@@ -1,7 +1,7 @@
 <!-- BANNER / HERO -->
 <h1 align="center">Hi, I'm Alexandra Moraitaki 👋</h1>
 <p align="center">
-Electrical & Computer Engineering student @ <b>NTUA</b>. I like building things that work — from low-level systems to web & GenAI apps.
+Electrical & Computer Engineering student @ <b>NTUA</b>. I like building things that work: from low-level systems (microprocessors, embedded), through computer networks, up to high-level applications (web, mobile, GenAI).
 </p>
 
 <p align="center">

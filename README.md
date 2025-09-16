@@ -7,7 +7,6 @@ Electrical & Computer Engineering student @ <b>NTUA</b>. I like building things 
 <p align="center">
   <a href="mailto:moraitaki.alexandra@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/alexandra-moraitaki"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=alexandramoraitaki&style=flat&label=Profile+views" />
 </p>
 
 ---
@@ -18,26 +17,32 @@ Passionate ECE student fascinated by **computer networks, microprocessors, and G
 
 ---
 
-## 🧰 Tech I use
+##  Tech I use
 
+### Languages
 <p>
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <!-- Frameworks -->
+</p>
+
+### Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white" />
-  <!-- Data/Infra -->
+</p>
+### Databases
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
+### Tools & Platforms
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
@@ -52,8 +57,14 @@ Passionate ECE student fascinated by **computer networks, microprocessors, and G
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandramoraitaki&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandramoraitaki&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandramoraitaki&theme=tokyo-night" />
+</p>
+### 📊 Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandramoraitaki&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandramoraitaki&theme=tokyonight" />
 </p>
 
 ---
@@ -64,18 +75,23 @@ Passionate ECE student fascinated by **computer networks, microprocessors, and G
   <a href="https://github.com/alexandramoraitaki/Stray_PAWsitive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=Stray_PAWsitive&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/alexandramoraitaki/saas25-24">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=saas25-24&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/alexandramoraitaki/softeng24-24">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=softeng24-24&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alexandramoraitaki/saas25-24">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=saas25-24&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/alexandramoraitaki/databases">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=databases&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/alexandramoraitaki/Task-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandramoraitaki&repo=Task-Manager&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
 
 ### [Stray_PAWsitive](https://github.com/alexandramoraitaki/Stray_PAWsitive)  
 A **Flutter mobile app** designed to support and improve the care of stray animals.  

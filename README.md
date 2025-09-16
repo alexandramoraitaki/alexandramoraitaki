@@ -57,11 +57,8 @@ Passionate ECE student fascinated by **computer networks, microprocessors, and G
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandramoraitaki&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandramoraitaki&theme=tokyo-night" />
-</p>
-### 📊 Summary Cards
+
+## 📊 Summary Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandramoraitaki&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandramoraitaki&theme=tokyonight" />

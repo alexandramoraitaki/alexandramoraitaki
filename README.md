@@ -49,14 +49,6 @@ Passionate ECE student fascinated by **computer networks, microprocessors, and G
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexandramoraitaki&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=alexandramoraitaki&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandramoraitaki&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📊 Summary Cards
 <p align="center">

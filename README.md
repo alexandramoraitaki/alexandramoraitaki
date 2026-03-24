@@ -14,7 +14,7 @@ I enjoy building scalable systems and AI-driven applications from infrastructure
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ECE student passionate about **systems engineering** and **scalable software**.
 
@@ -31,7 +31,7 @@ I enjoy solving complex technical problems and turning them into **clean, workin
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 <p>

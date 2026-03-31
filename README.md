@@ -3,8 +3,8 @@
 
 <p align="center">
 Electrical & Computer Engineering student @ <b>NTUA</b>.  
-Interested in <b>systems and how things connect end-to-end - from networks and backend APIs to cloud infrastructure and data.</b>.  
-I enjoy building scalable systems and Aunderstanding how components communicate, and building systems that actually run and interact properly.
+Interested in <b>systems and how things connect end-to-end - from networks and backend APIs to cloud infrastructure and data</b>.  
+I enjoy building scalable systems and understanding how components communicate, and building systems that actually run and interact properly.
 Lately, I’ve been exploring AI agents and intent-driven systems through my thesis.
 </p>
 

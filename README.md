@@ -4,7 +4,7 @@
 <p align="center">
 Electrical & Computer Engineering student @ <b>NTUA</b>.  
 Interested in <b>systems and how things connect end-to-end - from networks and backend APIs to cloud infrastructure and data</b>.  
-I enjoy building scalable systems and understanding how components communicate, and building systems that actually run and interact properly.
+I enjoy building scalable systems and understanding how components communicate, and building systems that actually run and interact properly. Adaptable, with a strong interest in technology and a curious mindset, always looking to learn and improve.
 Lately, I’ve been exploring AI agents and intent-driven systems through my thesis.
 </p>
 
@@ -21,11 +21,11 @@ ECE student passionate about **systems engineering** and **scalable software**.
 
 My interests include:
 
-- Computer Networks
+- Networking & protocol
+- Backend APIs & microservices
 - Distributed Systems
 - AI Agents & Generative AI
 - Application Development (Web & Mobile)
-- Building AI-powered applications
 - Cloud & Infrastructure
 
 I enjoy solving complex technical problems and turning them into **clean, working systems**.

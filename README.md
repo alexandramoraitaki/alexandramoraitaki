@@ -3,8 +3,9 @@
 
 <p align="center">
 Electrical & Computer Engineering student @ <b>NTUA</b>.  
-Interested in <b>Computer Networks, Agentic AI, and full-stack application development</b>.  
-I enjoy building scalable systems and AI-driven applications from infrastructure to user-facing software.
+Interested in <b>systems and how things connect end-to-end - from networks and backend APIs to cloud infrastructure and data.</b>.  
+I enjoy building scalable systems and Aunderstanding how components communicate, and building systems that actually run and interact properly.
+Lately, I’ve been exploring AI agents and intent-driven systems through my thesis.
 </p>
 
 <p align="center">
